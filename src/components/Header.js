@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     
-    <header className="flex justify-between bg-black text-white px-10 py-3 sm:flex-wrap">
+    <header className="flex justify-between bg-black text-white px-10 py-3">
       <div className="">
         <h2 className="text-lg">Rubesh</h2>
       </div>
